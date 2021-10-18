@@ -1,0 +1,54 @@
+
+#### Todo ###
+
+### DB  5 to 7H
+    1- [] models - Database tables   
+    2- [] Relations 
+
+################### Api's
+### Providers
+
+###### Auth 2-3H
+    1- [] Register 
+    2- [] Login 
+    3- [] Forget Password 
+
+###### Make activity 8H
+
+    1- [] make experience
+    2- [] List experience
+    3- [] edit experience
+    4- [] delete experience
+    5- [] Approve experience from admin
+
+##### receive bookings 8H
+    1- [] display booking experience
+    2- [] cancel experience
+    3- [] access traveler
+
+##### wallet 
+
+##### Rate 
+##### History  2H
+    1- [] display List 
+
+##### sub Providers 
+    1- [] add sub Providers
+    2- [] edit sub Providers
+    3- [] delete sub Providers
+    4- [] list sub Providers
+
+
+
+### Travelers
+
+###### Auth 2-3H
+    1- [] Register 
+    2- [] Login 
+    3- [] Forget Password 
+
+###### Experiences
+    1- [] List - search experiences
+    2- [] list - search providers profile
+    3- [] display details providers profile
+    3- [] display details experiences
